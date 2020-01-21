@@ -1,0 +1,37 @@
+body{
+		background: url(wwwwz.jpg);
+	background-size: cover;
+}
+.kataragama{
+	background-image: url(111z.jpg);
+    background-size: cover;
+	background-repeat: repeat;
+	width: none;
+	height: 500px;
+}
+.wrapper h1{
+	color: black;
+	font-size: 50px;
+	font-style: bold;
+	color: white;
+		font-family: Tahoma, geneva, sans-serif;
+	color: #fff;
+	margin-left: 30px;
+	padding-top: 20px;
+}
+.kataragama p{
+	margin-right: 1100px;
+	color: white;
+		font-family: Tahoma, geneva, sans-serif;
+	color: #fff;
+	margin-left: 30px;
+}
+.letter
+{
+	font-family: Tahoma, geneva, sans-serif;
+	color: #000;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
